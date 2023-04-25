@@ -43,6 +43,7 @@ void quick_sort_recursive(int *array, int lo, int hi, size_t size)
  * Return: the pivot element position
  */
 
+int partition(int *array, int lo, int hi, size_t size)
 {
 	int i, j, pivot, tmp;
 
