@@ -19,7 +19,7 @@ void quick_sort(int *array, size_t size)
  * @array: The array to be sorted
  * @lo: The starting index of the partition to be sorted
  * @hi: The ending index of the partition to be sorted
- * size: Number of elements in @array
+ * @size: Number of elements in @array
  */
 
 void quick_sort_recursive(int *array, int lo, int hi, size_t size)
