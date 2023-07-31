@@ -1,1 +1,1 @@
-Sorting Algorithms project
+Sorting Algorithms
